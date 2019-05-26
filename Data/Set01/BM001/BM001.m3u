@@ -1,1 +1,13 @@
-
+#EXTM3U
+#EXTINF:0,Kapitel 1
+https://raw.githubusercontent.com/RAConquista/AudioBKS/master/Data/Set01/BM001/001.mp3
+#EXTINF:0,Kapitel 2
+https://raw.githubusercontent.com/RAConquista/AudioBKS/master/Data/Set01/BM001/002.mp3
+#EXTINF:0,Kapitel 3
+https://raw.githubusercontent.com/RAConquista/AudioBKS/master/Data/Set01/BM001/003.mp3
+#EXTINF:0,Kapitel 4
+https://raw.githubusercontent.com/RAConquista/AudioBKS/master/Data/Set01/BM001/004.mp3
+#EXTINF:0,Kapitel 5
+https://raw.githubusercontent.com/RAConquista/AudioBKS/master/Data/Set01/BM001/005.mp3
+#EXTINF:0,Kapitel 6
+https://raw.githubusercontent.com/RAConquista/AudioBKS/master/Data/Set01/BM001/006.mp3
